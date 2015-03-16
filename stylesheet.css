@@ -1,0 +1,83 @@
+﻿/*css page*/
+.div {
+margin-top:100px;
+}
+
+#top	{
+	/*background-color:silver;
+	margin:0px 0px 0px 0px;*/
+}
+
+#head	{
+	width:300px;
+	height:68px;
+	display:inline;
+}
+
+#head1	{
+	display:inline-block;
+	margin-left:50px;
+	padding-bottom:1px;
+	float:right;
+}
+
+
+#leftbar {
+    float:left;
+    display:inline;
+    border-right:thin silver solid;
+    height:300px;
+}
+
+#center {
+    display:inline-block;
+    height:300px;
+}
+
+#rightbar {
+    float:right;
+    display:inline;
+    border-left:thin silver solid;
+    height:300px;
+}
+
+#profilepic {
+	position:absolute;
+    display:inline;
+    height:100px;
+    width:100px;
+    border:thin silver solid;
+    border-radius:100%;
+    margin:10px 0px 0px 10px;
+}
+
+#footer {
+    float:left;
+    clear:both;
+    display:block;
+    border-top:thin silver solid;
+}
+
+#profilename	{
+	position:absolute;
+	display:inline;
+	margin:60px 0px 0px 120px;
+}
+
+#quotes	{
+	position:absolute;
+	display:block;
+	margin:80px 0px 0px 120px;
+}
+
+#table1	{
+	position:absolute;
+	margin:130px 0px 0px 70px;
+	color:#666666;
+}
+
+#contact	{
+	/*position:absolute;*/
+	color:#666666;
+	margin:130px 0px 0px 0px;
+}
